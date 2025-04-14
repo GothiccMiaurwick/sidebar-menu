@@ -1,4 +1,5 @@
 📁 sidebar-menu
+
 A responsive and collapsible sidebar built with pure HTML and CSS.
 Crafted to integrate seamlessly into modern layouts, this sidebar provides a clean, adaptable navigation experience across different screen sizes.
 
@@ -12,6 +13,7 @@ Crafted to integrate seamlessly into modern layouts, this sidebar provides a cle
 A great starting point for dashboards, admin panels, or any web app requiring structured sidebar navigation.
 
 📁 sidebar-menu
+
 Un sidebar responsive y colapsable desarrollado con HTML y CSS puro.
 Diseñado para integrarse fácilmente en cualquier layout moderno, este menú lateral ofrece una navegación limpia y adaptable para distintos tamaños de pantalla.
 
