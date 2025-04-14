@@ -11,15 +11,6 @@ Crafted to integrate seamlessly into modern layouts, this sidebar provides a cle
 
 A great starting point for dashboards, admin panels, or any web app requiring structured sidebar navigation.
 
-![image](https://github.com/user-attachments/assets/e9f4c345-f226-4466-a7d6-a5732a473339)
-
-![image](https://github.com/user-attachments/assets/58de8be3-4a70-4960-b8df-a25aa03b8a58)
-
-![image](https://github.com/user-attachments/assets/778967b8-5371-44ab-8e57-b0fc3452bcdc)
-
-![image](https://github.com/user-attachments/assets/aa6446d6-622a-4bd0-8f25-0c3e0fbf3d51)
-
-
 📁 sidebar-menu
 Un sidebar responsive y colapsable desarrollado con HTML y CSS puro.
 Diseñado para integrarse fácilmente en cualquier layout moderno, este menú lateral ofrece una navegación limpia y adaptable para distintos tamaños de pantalla.
